@@ -1,9 +1,9 @@
 import './App.css';
-import jobApplicationTracker from './components/jobApplicationTracker';
+import ApplicationTracker from './components/applicationTracker';
 
 function App() {
   return (
-    <jobApplicationTracker></jobApplicationTracker>
+    <ApplicationTracker></ApplicationTracker>
   );
 }
 
